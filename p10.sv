@@ -3,6 +3,7 @@
    array2:sum of elements should be <100
    array3:sum of elements should be >100
 */
+
 class test;
   rand int unsigned arr1[],arr2[],arr3[];
   function void post_randomize;
