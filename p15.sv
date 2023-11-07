@@ -1,6 +1,7 @@
 /*
 Q.15 generate unique values without using rand or randc
 */
+
 class test;
   bit [3:0]a;
   int q[$];
